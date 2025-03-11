@@ -16,17 +16,19 @@ This project implements a Continuous Integration and Continuous Deployment (CI/C
 - [How to Contribute](#how-to-contribute)
 - [Questions](#questions)
 
-## Github Repository
+## GitHub Repository
 
 [GitHub Repository](https://github.com/Liv-5/CI-CD)
 
 ## Preview
 
-<!-- ![Kanban Login](/Kanban-Clarity/assets/KanbanLoginSS.PNG)
+![Pull Request GitHub Actions](./assets/CICDtestss.PNG)
 
-![Kanban Board](/Kanban-Clarity/assets/KanbanPageSS.PNG)
+![Pull Request GitHub Actions](./assets/CICDdeploytestss.PNG)
 
-![Kanban Ticket](/Kanban-Clarity/assets/KanbanTicketSS.PNG) -->
+![Pull Request GitHub Actions](./assets/CICDPRfeaturetodevss.PNG)
+
+![Pull Request GitHub Actions](./assets/CICDPRdevtomainss.PNG)
 
 <!-- <img src="./assets/KanbanLoginSS.PNG" alt="Kanban Login page">
 <img src="./assets/KanbanPageSS.PNG" alt="Kanban board page">

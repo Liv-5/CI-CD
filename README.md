@@ -10,6 +10,7 @@ This project implements a Continuous Integration and Continuous Deployment (CI/C
 
 - [GitHub Repository](#github-repository)
 - [Preview](#preview)
+- [Deployed Webpage](#deployed-webpage)
 - [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
@@ -31,7 +32,7 @@ This project implements a Continuous Integration and Continuous Deployment (CI/C
 <img src="./assets/KanbanPageSS.PNG" alt="Kanban board page">
 <img src="./assets/KanbanTicketSS.PNG" alt="Kanban ticket page"> -->
 
-<!-- ## Deployed Webpage -->
+## Deployed Webpage
 
 [Deployed Application Link](https://ci-cd-8l9g.onrender.com)
 
